@@ -19,7 +19,6 @@ public class ComparisonOperators {
         results = (15 % 3 == 0);//modulus - is divisable - true
         System.out.println(results);
 
-        System.out.println("This is just to demonstrate to Keletso");
 
     }
 }
